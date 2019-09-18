@@ -68,7 +68,7 @@ IS_AUTO_CODE = True
 #  列举qq  ，qq设置比较复杂，需要在邮箱-->账户-->开启smtp服务，取得授权码==邮箱登录密码
 #  email: "xxx@qq.com"
 #  notice_email_list: "123@qq.com"
-#  username: "xxxxx"
+#  username: "xxxxxx"
 #  password: "授权码"
 #  host: "smtp.qq.com"
 EMAIL_CONF = {
